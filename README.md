@@ -1,6 +1,6 @@
 # Google Map + Whatsapp Blaster
 
-A custom-made standalone desktop app to collect contacts through keyword search from Google Map API and blast message (with image) via Selenium, WhatsApp API / Web App. User authentication interface is added to avoid unintended charges from Google API due to public misuse.
+A custom-made standalone desktop app created to collect contacts through keyword searches using Google Map API and blast message (with image) via Selenium, WhatsApp API / Web App. User authentication interface is added to avoid unintended charges from Google API due to public misuse.
 
 Contact me for more details 😄
 
